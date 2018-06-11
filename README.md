@@ -12,12 +12,10 @@ python3
 
 Packages Needed
 -----------------
-pandas
-scipy
-numpy
-sklearn
-scikit_learn
-seaborn
+1) pandas
+2) scipy
+3) numpy
+4) scikit_learn
 
 
 Machine Learning Models used
