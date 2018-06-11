@@ -2,7 +2,7 @@
 
 Objective
 ------------
-The paper 'Prediction of valence scene from observer's' eye movements' is taken and studied and the accuracy is improved greatly compared to that of original paper.
+The paper 'Prediction of valence scene from observer's' eye movements' is taken and studied and the accuracy is improved greatly compared to that of original paper. The paper uses the standard dataset called 'NUSEF DATASET'. 
 
 
 Minimum Requirements
